@@ -1,0 +1,62 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "name": "حسین غلامی ",
+      "email": "hoseingholamii1376@gmail.com",
+      "phone": "09371606733",
+      "id": 9,
+      "date": "date",
+      "description": "description"
+    },
+    {
+      "name": "امیر",
+      "email": "test@gmail.com",
+      "phone": "09184872685",
+      "id": 10,
+      "date": "date",
+      "description": "description"
+    },
+    {
+      "name": "علی میرزاد ",
+      "email": "testtone@gmail.com",
+      "phone": "0123456789",
+      "id": 11,
+      "date": "date",
+      "description": "description"
+    },
+    {
+      "name": "حسین غلامی",
+      "email": "hoseingholamii1376@gmail.com",
+      "phone": "09371606733",
+      "id": 12,
+      "date": "date",
+      "description": "description"
+    },
+    {
+      "name": "نایک ایر پرو",
+      "email": "sds",
+      "phone": "",
+      "date": "2024-02-06",
+      "category": "category1",
+      "description": "sadasd",
+      "id": 13
+    }
+  ]
+}
